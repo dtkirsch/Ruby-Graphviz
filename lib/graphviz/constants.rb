@@ -156,6 +156,7 @@ class GraphViz
       "fillcolor"           => { :usedBy => "NEC",  :type => :Color }, # color
       "fixedsize"           => { :usedBy => "N",    :type => :GvBool }, # bool
       "fontcolor"           => { :usedBy => "ENGC", :type => :Color }, # color
+      "niviStageName"           => { :usedBy => "ENGC", :type => :Color }, # DTK ADDED NIVI CUSTOM ATTRIBUTE
       "fontname"            => { :usedBy => "ENGC", :type => :EscString }, # string
       "fontnames"           => { :usedBy => "G",    :type => :EscString }, # string
       "fontpath"            => { :usedBy => "G",    :type => :EscString }, # string
